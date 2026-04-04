@@ -1,0 +1,11 @@
+# Data files (too large for git)
+data/
+__pycache__/
+*.pyc
+
+# Checkpoints (tracked via git-lfs or stored separately)
+checkpoints/*.pt
+*.pt
+
+# Temp files
+.DS_Store
